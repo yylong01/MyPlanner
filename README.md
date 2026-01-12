@@ -21,11 +21,11 @@
 ..
 =======
 
-<img src="./MyPlanner/others/01.png" width="30%" > <br/>
+<img src="./others/01.png" width="30%" > <br/>
 
-<img src="./MyPlanner/others/02.png" width="30%" > <br/>
+<img src="./others/02.png" width="30%" > <br/>
 
-<img src="./MyPlanner/others/03.png" width="30%" > <br/>
+<img src="./others/03.png" width="30%" > <br/>
 
 
 
