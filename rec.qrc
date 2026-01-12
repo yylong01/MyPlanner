@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="res">
+    <file>icon/translate.png</file>
+    <file>icon/next.png</file>
+    <file>icon/shishitianqi.png</file>
+    <file>icon/city.png</file>
+    <file>icon/temperature.png</file>
+    <file>icon/whatweather.png</file>
+    <file>icon/windpower.png</file>
+    <file>icon/list.png</file>
+    <file>icon/dancing.gif</file>
+    <file>icon/star.png</file>
+    <file>icon/welcome.png</file>
+    <file>icon/weather.png</file>
+    <file>icon/word.png</file>
+    <file>icon/nail.png</file>
+    <file>icon/min.png</file>
+    <file>icon/jump.png</file>
+    <file>icon/close.png</file>
+    <file>icon/afternoon.png</file>
+    <file>icon/morning.png</file>
+    <file>icon/night.png</file>
+  </qresource>
+</RCC>
