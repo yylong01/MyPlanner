@@ -21,21 +21,11 @@
 ..
 =======
 
+<img src="./MyPlanner/others/01.png" width="30%" > <br/>
 
+<img src="./MyPlanner/others/02.png" width="30%" > <br/>
 
-![01](E:\pyStudy\project\Planner\MyPlanner\others\01.png)
-
-
-
-![02](E:\pyStudy\project\Planner\MyPlanner\others\02.png)
-
-![03](E:\pyStudy\project\Planner\MyPlanner\others\03.png)
-
-
-
->>>>>>> 5250f9e31b712535dd407b29f5c8ddb104076bac
-
-
+<img src="./MyPlanner/others/03.png" width="30%" > <br/>
 
 
 
